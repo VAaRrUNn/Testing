@@ -1,0 +1,1 @@
+This repo is for learning testing using pytest and hypothesis lib.
