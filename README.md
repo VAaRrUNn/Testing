@@ -1,1 +1,1 @@
-This repo is for learning testing using pytest and hypothesis lib.
+This repo is for learning testing, exception handling, oops concepts.
