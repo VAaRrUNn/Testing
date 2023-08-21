@@ -40,6 +40,9 @@ for char in reverse("gold"):
     print()
 
 
+# Anything that can be done with generators can also be done with class-based iterators as described in the previous section. What makes generators so compact is that the __iter__() and __next__() methods are created automatically.
+
+
 class MyClass:
     class_variable = 0
 
@@ -54,3 +57,5 @@ class MyClass:
 
 
 MyClass.class_method()
+
+
